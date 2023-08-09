@@ -26,7 +26,7 @@ News
 
 Recent Publications
 ======
-- **[April 2023]** Hasini Witharana, Sahan Sanjaya and Prabhat Mishra, Dynamic Refinement of Hardware Assertion Checkers, Design Automation and Test in Europe (DATE), Antwerp, Belgium, April 17-19, 2023.
-- **[Nov 2022]** Hasini Witharana and Prabhat Mishra, Speculative Load Forwarding Attack on Modern Processors, International Conference on Computer-Aided Design (ICCAD), October 30 - November 3, 2022.
-- **[Oct 2022]** Hasini Witharana, Aruna Jayasena, Andrew Whigham and Prabhat Mishra, Automated Generation of Security Assertions for RTL Models, ACM Journal on Emerging Technologies in Computing Systems (JETC), 2022.
-- **[Jan 2022]** Hasini Witharana, Yangdi Lyu, Subodha Charles and Prabhat Mishra, A Survey on Assertion-based Hardware Verification, ACM Computing Surveys (CSUR), 2022.
+- **[April 2023]** Our work on Dynamic Refinement of Hardware Assertion Checkers is accepted in DATE.
+- **[Nov 2022]** Our work on Speculative Load Forwarding Attack on Modern Processors is accepted in ICCAD.
+- **[Oct 2022]** Our work on Automated Generation of Security Assertions for RTL Models is accepted in ACM JETC.
+- **[Jan 2022]** Our survey on Assertion-based Hardware Verification is accepted in ACM Computing Surveys (CSUR).
