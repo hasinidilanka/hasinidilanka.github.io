@@ -249,7 +249,7 @@ defaults:
       share: true
   # _cv
   - scope:
-      path: ""
+      path: "/files/cv.pdf"
       type: cv
     values:
       layout: single
