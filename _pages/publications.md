@@ -23,6 +23,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - **Hasini Witharana**, Yangdi Lyu and Prabhat Mishra, [Directed Test Generation for Activation of Security Assertions in RTL Models](https://dl.acm.org/doi/10.1145/3441297), ACM Transactions on Design Automation of Electronic Systems (TODAES),a26(4), article 26, pages 1-28, 2021.
 
 ## Peer-reviewed  Conferences
+- **Hasini Witharana**, Daniel Volya and Prabhat Mishra, [QcAssert: Quantum Device Testing with Concurrent Assertions](), Asia and South Pacific Design Automation Conference (ASPDAC), South Korea, January 22 - 25, 2024.
 - **Hasini Witharana**, Sahan Sanjaya and Prabhat Mishra, [Dynamic Refinement of Hardware Assertion Checkers](https://ieeexplore.ieee.org/document/10137306), Design Automation and Test in Europe (DATE), Antwerp, Belgium, April 17-19, 2023.
 - **Hasini Witharana** and Prabhat Mishra, [Speculative Load Forwarding Attack on Modern Processors](https://dl.acm.org/doi/abs/10.1145/3508352.3549417), International Conference on Computer-Aided Design (ICCAD), October 30 - November 3, 2022.
 
