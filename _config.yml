@@ -256,6 +256,8 @@ defaults:
       author_profile: true
       share: true
 
+      https://medium.com/@hasiniwitharana
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
