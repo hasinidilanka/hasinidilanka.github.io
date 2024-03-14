@@ -17,6 +17,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 {% endfor %} -->
 
 ## Peer-reviewed Journals
+- **Hasini Witharana**, Aruna Jayasena and Prabhat Mishra, [Incremental Concolic Testing of Register-Transfer Level Designs](), ACM Transactions on Design Automation of Electronic Systems (TODAES), 2024.
 - **Hasini Witharana**, Aruna Jayasena, Andrew Whigham and Prabhat Mishra, [Automated Generation of Security Assertions for RTL Models](https://dl.acm.org/doi/10.1145/3565801), ACM Journal on Emerging Technologies in Computing Systems (JETC), 2022.
 - **Hasini Witharana**, Yangdi Lyu, Subodha Charles and Prabhat Mishra, [A Survey on Assertion-based Hardware Verification](https://dl.acm.org/doi/10.1145/3510578), ACM Computing Surveys (CSUR), 2022.
 - Aruna Jayasena, Binod Kumar, Subodha Charles, **Hasini Witharana** and Prabhat Mishra, [Network-on-Chip Trust Validation using Security Assertion](https://link.springer.com/article/10.1007/s41635-022-00129-5), Springer Journal of Hardware and Systems Security (HASS), 2022.
