@@ -17,6 +17,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 {% endfor %} -->
 
 ## Peer-reviewed Journals
+- **Hasini Witharana**, Hansika Weerasena and Prabhat Mishra, [Formal Verification of Virtualization-based Trusted Execution Environments](), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
 - **Hasini Witharana**, Aruna Jayasena and Prabhat Mishra, [Incremental Concolic Testing of Register-Transfer Level Designs](), ACM Transactions on Design Automation of Electronic Systems (TODAES), 2024.
 - **Hasini Witharana**, Aruna Jayasena, Andrew Whigham and Prabhat Mishra, [Automated Generation of Security Assertions for RTL Models](https://dl.acm.org/doi/10.1145/3565801), ACM Journal on Emerging Technologies in Computing Systems (JETC), 2022.
 - **Hasini Witharana**, Yangdi Lyu, Subodha Charles and Prabhat Mishra, [A Survey on Assertion-based Hardware Verification](https://dl.acm.org/doi/10.1145/3510578), ACM Computing Surveys (CSUR), 2022.
@@ -24,6 +25,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - **Hasini Witharana**, Yangdi Lyu and Prabhat Mishra, [Directed Test Generation for Activation of Security Assertions in RTL Models](https://dl.acm.org/doi/10.1145/3441297), ACM Transactions on Design Automation of Electronic Systems (TODAES),a26(4), article 26, pages 1-28, 2021.
 
 ## Peer-reviewed  Conferences
+- **Hasini Witharana**, Hansika Weerasena and Prabhat Mishra, [Formal Verification of Virtualization-based Trusted Execution Environments](), ACM/IEEE International Conference on Compilers, Architectures, and Synthesis for Embedded Systems (CASES), Raleigh, North Carolina, September 29 - October 4, 2024.
 - **Hasini Witharana**, Debapriya Chatterjee and Prabhat Mishra, [Verifying Memory Confidentiality and Integrity of Intel TDX Trusted Execurtion Environments](),  IEEE International Symposium on Hardware Oriented Security and Trust , Washington DC, May 6-9, 2024.
 - **Hasini Witharana**, Daniel Volya and Prabhat Mishra, [QcAssert: Quantum Device Testing with Concurrent Assertions](), Asia and South Pacific Design Automation Conference (ASPDAC), South Korea, January 22 - 25, 2024.
 - **Hasini Witharana**, Sahan Sanjaya and Prabhat Mishra, [Dynamic Refinement of Hardware Assertion Checkers](https://ieeexplore.ieee.org/document/10137306), Design Automation and Test in Europe (DATE), Antwerp, Belgium, April 17-19, 2023.

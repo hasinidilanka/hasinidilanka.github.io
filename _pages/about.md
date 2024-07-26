@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a fourth-year PhD student from the Computer and Information Science and Engineering Department of the University of Florida. 
+
 
 Research Areas
 ======
@@ -19,7 +19,7 @@ Research Areas
 
 Eductaion
 ======
-- **[2020 - Present]** Ph.D. University of Florida, Computer Science
+- **[2020 - 2024]** Ph.D. University of Florida, Computer Science
 - **[2020 - 2023]** M.Sc. University of Florida, Computer Scinece and Engineering
 - **[2014 - 2018]** B.Sc. University of Moratuwa Sri Lanka, Computer Scinece and Engineering
 
