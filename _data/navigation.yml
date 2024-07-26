@@ -11,11 +11,11 @@ main:
     
   # - title: "Portfolio"
   #   url: /portfolio/
-  - title: "Post"
-    url: /post/
+  # - title: "Post"
+  #   url: /post/
         
-  - title: "Blog"
-    url: /blog/
+  # - title: "Blog"
+  #   url: /blog/
     
   - title: "CV"
     url: /files/cv.pdf
